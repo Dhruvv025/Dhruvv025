@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhruvv025
-- 👀 I’m interested in Python Devlopment
+- 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning MERN
 
 <!---
